@@ -1,4 +1,4 @@
-<h1> For dubugging purpose </h1>
+<h1> For debugging purpose </h1>
 
 ## Database Configuration
 
