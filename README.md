@@ -19,4 +19,4 @@ Username : phptraining@phptraining.com
 Password : 123456
 ```
 
-You can watch a live demo of the project at: [Live demo] (https://rhriday-tour.herokuapp.com/)
+You can watch a live demo of the project at: [Live demo](https://rhriday-tour.herokuapp.com/)
